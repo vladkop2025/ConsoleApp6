@@ -10,7 +10,7 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
-        //Модуль 6.ООП.Введение
+            //Модуль 6.ООП.Введение
         }
     }
 }
